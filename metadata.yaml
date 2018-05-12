@@ -1,0 +1,31 @@
+_repo: The-Ballads--amp--Songs-of-DerbyshireWith-Illustrative-Notes-and-Examples-of-the-Original-Mus__42585
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42585-h/images/cover.png
+creator:
+  editor:
+    agent_name: Jewitt, Llewellynn Frederick William
+    birthdate: 1816
+    deathdate: 1886
+    gutenberg_agent_id: '41757'
+    url: http://www.gutenberg.org/2009/agents/41757
+description: ''
+gutenberg_issued: '2013-04-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42585'
+  lccn: '14016606'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Songs, English -- England -- Derbyshire -- Texts'
+- !lcc 'PR'
+- !lcsh 'Derbyshire (England) -- Poetry'
+- !lcsh 'Ballads, English -- England -- Derbyshire -- Texts'
+title: 'The Ballads & Songs of Derbyshire
+
+  With Illustrative Notes, and Examples of the Original Music, etc.'
+url: http://www.gutenberg.org/ebooks/42585
