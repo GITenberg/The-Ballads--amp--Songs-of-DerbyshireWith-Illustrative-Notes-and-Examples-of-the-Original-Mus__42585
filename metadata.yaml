@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '41757'
     url: http://www.gutenberg.org/2009/agents/41757
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42585#The-Ballads--amp--Songs-of-DerbyshireWith-Illustrative-Notes-and-Examples-of-the-Original-Mus_
 gutenberg_issued: '2013-04-23'
 gutenberg_type: Text
 identifiers:
